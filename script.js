@@ -3,8 +3,7 @@ cardArray=[
     {text: "A", image: "images/1.png"},
     {text: "B", image: "images/2.png"},
     {text: "B", image: "images/2.png"},
-    {text: "C", image: "images/3.png"},
-    {text: "C", image: "images/3.png"},
+  
     {text: "D", image: "images/4.png"},
     {text: "D", image: "images/4.png"},
     {text: "E", image: "images/5.png"},
@@ -13,16 +12,13 @@ cardArray=[
     {text: "F", image: "images/6.png"},
     {text: "G", image: "images/7.png"},
     {text: "G", image: "images/7.png"},
-    {text: "H", image: "images/8.png"},
-    {text: "H", image: "images/8.png"},
-    {text: "I", image: "images/9.png"},
-    {text: "I", image: "images/9.png"},
-    {text: "J", image: "images/10.png"},
-    {text: "J", image: "images/10.png"},
+  
     {text: "K", image: "images/11.png"},
     {text: "K", image: "images/11.png"},
-    {text: "L", image: "images/12.png"},
-    {text: "L", image: "images/12.png"},
+    {text: "L", image: "images/13.png"},
+    {text: "L", image: "images/13.png"},
+        {text: "J", image: "images/15.png"},
+    {text: "J", image: "images/15.png"},
 
 ];
 
